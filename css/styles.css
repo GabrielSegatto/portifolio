@@ -1,0 +1,34 @@
+#navegacao {
+  font-weight: 700;
+}
+#navegacao .navbar-brand {
+    color: #FFF;
+    font-size: 1.7em;
+}
+#navegacao .navbar-nav li.nav-item a.nav-link {
+    color: #fff;
+}
+#navegacao .navbar-nav li.nav-item a.nav-link:hover {
+    color: #1abc9c;
+}
+
+.photo {
+    height: 100vh;
+    padding-top: 4%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.photo .photo-heading {
+    font-size: 2.75rem;
+    line-height: 2.75rem;
+}
+.photo .photo-subheading {
+    font-size: 1.25rem;
+}
+.photo .photo-avatar {
+    width: 20%;
+}
+.btn-success {
+    background: #00400f !important;
+}
